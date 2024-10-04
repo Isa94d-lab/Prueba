@@ -16,7 +16,6 @@ while True:
 
     if opcion == "1":
         Ingresar_usuario.info(usuarios)
-
         break
     else: 
         print("Ingresaste una respuesta INCORRECTA, Intenta de nuevo")
